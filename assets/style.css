@@ -1,1 +1,33 @@
+.stApp {
+    background-color: #f5f7fa;
+}
 
+h1 {
+    text-align: center;
+    color: #0f172a;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+[data-testid="stSidebar"] {
+    background: linear-gradient(
+        180deg,
+        #0f172a,
+        #1e293b
+    );
+}
+
+[data-testid="stSidebar"] * {
+    color: white;
+}
+
+.stButton > button {
+    width: 100%;
+    border-radius: 10px;
+    height: 45px;
+    font-weight: 600;
+}
+
+div[data-testid="stDataFrame"] {
+    border-radius: 12px;
+}
