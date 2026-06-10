@@ -1,11 +1,9 @@
 .stApp {
-    background-color: #f5f7fa;
+    background-color: #f8fafc;
 }
 
 h1 {
-    text-align: center;
     color: #0f172a;
-    font-size: 48px;
     font-weight: 700;
 }
 
@@ -23,8 +21,8 @@ h1 {
 
 .stButton > button {
     width: 100%;
-    border-radius: 10px;
-    height: 45px;
+    border-radius: 12px;
+    height: 48px;
     font-weight: 600;
 }
 
